@@ -4,3 +4,4 @@ IPython
 plotly
 sklearn
 scikit-learn
+xlrd
