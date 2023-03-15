@@ -1,4 +1,4 @@
-geopyimport pandas as pd
+import pandas as pd
 from sklearn.cluster import KMeans
 import geopy.distance
 import numpy as np
