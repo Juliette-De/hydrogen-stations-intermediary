@@ -2,3 +2,4 @@ streamlit_folium
 geopy
 IPython
 plotly
+sklearn
